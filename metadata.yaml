@@ -1,0 +1,6 @@
+name: astrbot_plugin_bili_curator
+display_name: B站策展
+desc: 按需刷 B 站、按分类收藏、按需评论（全部需要你发命令才动作）
+version: 1.0.0
+author: dsh
+repo: "https://github.com/Rookie-chick/astrbot_plugin_bili_curator"

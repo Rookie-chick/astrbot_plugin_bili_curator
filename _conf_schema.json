@@ -1,0 +1,27 @@
+{
+  "preferences": {
+    "description": "兴趣偏好（打分时参考）",
+    "type": "string",
+    "default": "C++、逆向、Linux、硬件、AI 工程"
+  },
+  "fetch_limit": {
+    "description": "每次最多评估多少条候选",
+    "type": "int",
+    "default": 10
+  },
+  "max_items": {
+    "description": "简报里最多展示几条",
+    "type": "int",
+    "default": 5
+  },
+  "max_fav": {
+    "description": "一次最多收藏几条",
+    "type": "int",
+    "default": 3
+  },
+  "max_folders": {
+    "description": "最多自动创建几个收藏夹",
+    "type": "int",
+    "default": 5
+  }
+}
